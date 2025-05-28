@@ -1,6 +1,5 @@
 import React from 'react';
 import Logo from '../Assets/Logo.png';
-import { Link } from 'react-router-dom';
 
 export default function Nav() {
     return (

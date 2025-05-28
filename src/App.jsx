@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Nav from './Components/Nav';
 import Bannar from './Components/Bannar';
@@ -8,7 +8,6 @@ import MySkills from './Components/MySkills';
 import Resume from './Components/Resume';
 import ContactMe from './Components/ContactMe';
 import Footer from './Components/Footer';
-import MyWorks from './Components/MyWorks';
 import MySimbileWorks from "./Components/MySimbleWorks"
 document.addEventListener("mousemove", function(e) {
   let star = document.getElementById("star");

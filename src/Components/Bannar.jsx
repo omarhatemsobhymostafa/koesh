@@ -1,5 +1,5 @@
 import React from 'react';
-import Img from '../Assets/Profile.webp'
+
 export default function Bannar() {
 
 

@@ -1,6 +1,6 @@
 import React from 'react'
 import Img from '../Assets/About.png'
-import cv from '../Assets/About.webp'
+
 export default function About() {
   return (
 
