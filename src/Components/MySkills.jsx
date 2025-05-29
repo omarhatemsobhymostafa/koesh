@@ -46,7 +46,7 @@ export default function MySkills() {
             </div>
             <div className="skill">
               <div className="info">
-                <h3>HTML</h3> <span>75%</span>
+                <h3>HTML</h3> <span>20%</span>
               </div>
 
               <div className="full-mark"><div className="html mark"></div></div>
@@ -54,7 +54,7 @@ export default function MySkills() {
 
             <div className="skill">
               <div className="info">
-                <h3>CSS</h3> <span>70%</span>
+                <h3>CSS</h3> <span>13%</span>
               </div>
 
               <div className="full-mark"><div className="css mark"></div></div>

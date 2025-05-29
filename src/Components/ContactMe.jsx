@@ -23,7 +23,7 @@ export default function ContactMe() {
         <i class="fa-solid fa-envelope"></i>
           <div className="infos">
           <h2>Email</h2>
-          <p>omar.hatem.okasha@gmail.com</p>
+          <p>social.koeshg@gmail.com</p>
           </div>
           
           

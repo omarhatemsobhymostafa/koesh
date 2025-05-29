@@ -27,9 +27,9 @@ export default function About() {
             In addition to web development, I have extensive experience in digital drawing, video editing (montage), and both 2D and 3D game development using the Godot engine.
           </p>
 
-          <ul> <li>Birthday: May 22, 2013</li>
+          <ul> <li>Birthday: Dec 15, 2013</li>
             <li>Phone: +20 155 474 4988</li>
-            <li>Email: omar.hatem.okasha@gmail.com</li>
+            <li>Email: social.koeshg@gmail.com</li>
             <li>From: Giza , Egypt</li>
             <li>Language: Arabic , English</li>
             <li>Freelance: Available</li></ul>
